@@ -25,6 +25,10 @@
 
 ### المستوئ المبتدئ
 
+### فلاتر
+
+- **فيديو** [The Magic of Flutter , Flutter StudyJam دليلك الكامل لتعلم فلاتر ، ورشة تدريب فلاتر لأكثر من٣ ساعات](https://www.youtube.com/watch?v=gvAvYwMM5MA)
+
 ### المستوي المتوسط
 
 ### المستوي المتقدم
